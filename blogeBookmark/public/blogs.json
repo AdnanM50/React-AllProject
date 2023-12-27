@@ -1,0 +1,59 @@
+[
+    {
+        "id": "1",
+        "title": "How to start your journey as a programmer",
+        "cover_image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1206&q=80",
+        "author_image": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "author_name": "Brooke Cagle",
+        "date": "14 March, 2023",
+        "time": 6,
+        "isBookmark": false,
+        "tags": [
+            "freshers",
+            "programming"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "How to manage your time and do hard work as a programmer",
+        "cover_image": "https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "author_image": "https://images.unsplash.com/photo-1579380287268-aa88d096651c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=719&q=80",
+        "author_name": "Omid Armin",
+        "date": "16 March, 2023",
+        "time": 5,
+        "isBookmark": false,
+        "tags": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "How to get your first job as a self-taught programmer",
+        "cover_image": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "author_image": "https://images.unsplash.com/photo-1515621061946-eff1c2a352bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=789&q=80",
+        "author_name": "Fotis Fotopoulos",
+        "date": "12 March, 2023",
+        "time": 8,
+        "isBookmark": false,
+        "tags": [
+            "higher-level",
+            "programming"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "What should we do in our daily routine to become a pro-level programmer",
+        "cover_image": "https://images.unsplash.com/photo-1617529497471-9218633199c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "author_image": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=934&q=80",
+        "author_name": "Sigmund",
+        "date": "10 March, 2023",
+        "time": 10,
+        "isBookmark": false,
+        "tags": [
+            "pro-level",
+            "hard-exercise",
+            "programming"
+        ]
+    }
+]
